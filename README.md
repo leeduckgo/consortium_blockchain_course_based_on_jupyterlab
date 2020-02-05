@@ -4,9 +4,12 @@
 
 **作者：李大狗**
 
-
 **相关书籍：**
 **[比特币极速入门指南](https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab)**
+
+**简介：**
+
+一本基于 JupyterLab 的联盟链极速入门指南，包含**联盟链应用的基础知识、如何用 BSN 搭建联盟链应用、 如何用 FISCO-BCOS 搭建联盟链应用**等方面。
 
 ## 本书适合人群
 
