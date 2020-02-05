@@ -6,7 +6,6 @@
 
 
 **相关书籍：**
-
 **[比特币极速入门指南](https://github.com/leeduckgo/bitcoin_elementary_course_based_on_jupyterlab)**
 
 ## 本书适合人群
